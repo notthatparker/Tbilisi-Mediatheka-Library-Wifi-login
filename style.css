@@ -1,0 +1,73 @@
+
+body {
+  -webkit-gradient: linear-(red, yellow, blue);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 1em;
+    margin: 0 auto;
+}
+
+.form-signin .form-signin-heading{
+  margin-bottom: .9em;
+  font-size: 3rem;
+}
+
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: .8em;
+  font-size: 1.5rem;
+  margin-bottom: .5rem;
+}
+
+.form-signin input{
+  border-radius: 40em;
+}
+img {
+    width: 100%;
+    height: auto;
+  padding: .8em;
+  margin-bottom: .5rem;
+}
+
+.btn{border-radius:40px;
+    margin-top: 1em;
+  margin-bottom:2em;
+}
+
+.update{
+    margin-top: 0.7em;
+  margin-bottom:0.9em;
+    border-radius: 1em;
+    padding: 0.7em;
+    font-size: 1.3rem;
+    background-color: Gold;
+    display: none;
+}
+
+.sys{
+   
+  font-size: 1.5rem;
+  text-align: center;
+  opacity:0.1;
+  font-weight: bold;
+}
+
+.au{
+   
+  font-size: 1.5rem;
+  text-align: center;
+  opacity:0.2;
+  font-weight: bold;
+}
